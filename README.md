@@ -51,13 +51,13 @@ Pré-requisitos
 Como Usar
 
 1. Faça o download da planilha `Projeto 1 - Simulador_Investimentos.xlsx`
-2. Preencha os campos em **azul claro** com seus dados:
+2. Preencha os campos os dados:
    - Valor inicial
    - Aportes mensais
    - Taxa de juros (% ao ano ou ao mês)
-   - Tempo de aplicação (em meses ou anos)
+   - Tempo de aplicação (em meses)
 3. Confira os resultados nos gráficos e nos relatórios automáticos
-4. Compare cenários e tome decisões mais seguras 💡
+4. Compare cenários e tome decisões mais seguras.
 
 ---
 
